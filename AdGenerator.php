@@ -4,7 +4,7 @@
 
 <html>
 <head>
-	<title>Ad Generator</title>
+	<title>Ad Generator Test</title>
 	
 	<!-- Style -->
 	<style>
